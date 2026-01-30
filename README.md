@@ -18,3 +18,5 @@ console.log("look ma’, no spaces");
 'git add -A' **бүх шинэ болон өөрчлөгдсөн файлуудыг стайжилнэ**
 
 'git add [file.txt]' **file.txt файлыг стайжилнэ**
+
+'git remote prune  <remote-name>' **локал дээрх remote-name цэвэрлэнэ**
